@@ -59,11 +59,9 @@ After you're finished please remove all the comments and instructions!
 - [📝 License](#license)
 
 
-# 📖 [Hello Rails Backend] <a name="about-project"></a>
+# 📖 Hello Rails Backend <a name="about-project"></a>
 
 > Link to [Hello-React-Frontend](https://github.com/AmaliaGM/hello-react-front-end)
-
-**[your_project__name]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
