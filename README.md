@@ -58,11 +58,10 @@ After you're finished please remove all the comments and instructions!
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello Rails Backend] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> Link to [Hello-React-Frontend](https://github.com/AmaliaGM/hello-react-front-end)
 
 **[your_project__name]** is a...
 
