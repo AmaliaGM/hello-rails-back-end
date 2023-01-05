@@ -97,7 +97,7 @@ To get a local copy up and running, follow these steps.
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
+Thanks [Flunavgt](https://github.com/Flunavgt)!
 
 Feel free to check the [issues page](../../issues/).
 
