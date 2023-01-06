@@ -83,8 +83,6 @@ To get a local copy up and running, follow these steps.
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Amalia Gomez Moro**
 
 - GitHub: [@AmaliaGM](https://github.com/AmaliaGM)
