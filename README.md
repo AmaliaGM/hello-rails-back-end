@@ -1,21 +1,5 @@
 <a name="readme-top"></a>
 
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
 <div align="center">
   <h3><b>Microverse README Template</b></h3>
 
@@ -61,9 +45,9 @@ OPTIONAL SECTIONS:
 
 ### Key Features <a name="key-features"></a>
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+**I will add a picture of the place of the world where the language is from**
+- **I will bootstrap style the site**
+- **This will be a non profit foundation site where you can 'Change the World' by giving to those in need around the world**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
