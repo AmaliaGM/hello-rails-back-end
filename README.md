@@ -55,7 +55,9 @@ OPTIONAL SECTIONS:
   - Postgres SQL
   - HTML
   
- <!-- Features -->
+ <!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
 
 ### Key Features <a name="key-features"></a>
 
